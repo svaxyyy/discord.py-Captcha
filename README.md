@@ -1,5 +1,5 @@
 # discord.py-Captcha
-Captcha system to just copy paste
+Captcha system 
 
 # Help
 
@@ -11,12 +11,12 @@ Contact Svaxyy#0859 on discord i`ll try my best to fix issues
 2. fill out the bot_config.json file in the database folder
 3. invite the bot to your server
 
-# How the transcript looks like:
+# How the Captcha looks like:
 
-![alt text](https://cdn.discordapp.com/attachments/863516880571596801/865706746264551434/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/797060521450799144/865968611164028938/unknown.png)
 
 # Command Usage:
 
- - !save <amount of messages>   --> !save 50
- - !fastsave                    --> !fastsave
- - !purge <timezone>            --> !purge berlin
+ - !setup_captcha           --> only for discord server admins
+ - !captcha or !verify      --> Verifies the user
+
