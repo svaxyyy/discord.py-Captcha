@@ -13,6 +13,9 @@ Contact Svaxyy#0859 on discord i`ll try my best to fix issues
 
 # How the Captcha looks like:
 
+
+![alt text](https://cdn.discordapp.com/attachments/797060521450799144/865975669140488192/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/797060521450799144/865975090411339776/unknown.png)
 ![alt text](https://cdn.discordapp.com/attachments/797060521450799144/865968611164028938/unknown.png)
 
 # Command Usage:
