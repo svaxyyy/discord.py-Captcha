@@ -1,6 +1,9 @@
 # discord.py-Captcha
 Captcha system 
 
+# Please leave a reaction on Discord that would be nice!
+- ✅ / 🆗
+
 # Help
 
 Contact Svaxyy#0859 on discord i`ll try my best to fix issues
